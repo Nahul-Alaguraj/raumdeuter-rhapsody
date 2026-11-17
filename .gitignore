@@ -62,3 +62,21 @@ __pycache__/
 venv/
 env/
 .DS_Store
+kaggle_upload/
+
+# -- our solution: working files that must not be published --------------------------------------
+# possession_single.py is an earlier experiment that fits models to the competition match itself
+# (not allowed by the rules). It is NOT part of the submission; possession_rules.py replaces it.
+possession_single.py
+LewanDATAski*
+kaggle_upload/
+kaggle_train_v4.ipynb
+possession_training_kaggle.ipynb
+data/external/
+# validation-run weights (trained with matches held out) and old experiments are not needed
+training/possession_gru_*_val.pt
+training/possession_gru.pt
+training/possession_gru_v2.pt
+training/possession_gru_v3.pt
+training/possession_gru_final_s*.pt
+training/possession_gru_v4_*.pt

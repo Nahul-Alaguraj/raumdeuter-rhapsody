@@ -1,0 +1,5 @@
+# Exact versions the submission was generated with (Python 3.12.1).
+# CPU is enough: the networks are tiny and inference runs on CPU.
+numpy==1.26.4
+pandas==2.3.2
+torch==2.8.0

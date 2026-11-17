@@ -1,3 +1,5 @@
+> **Our solution (team raumdeuter_rhapsody):** see [SOLUTION.md](SOLUTION.md) for the approach and the one command that regenerates our submission file.
+
 # More than a Hack 2027 — Phase 1: Ball Possession
 
 **Organised by [Metrica Sports](https://metrica-sports.com), [FC Barcelona](https://www.fcbarcelona.com)
